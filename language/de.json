@@ -1,0 +1,19 @@
+{
+    "cmd_help_text": "Hallo, <b>{login}</b>!\nIch helfe dir, die Musik in YouTube Music zu finden, und verschicke die als eine Datei. \n<b>Schreib mir einfach, was willst du finden 😉</b>\n\n<b>⭐️ Meine Vorteile sind:</b>\n➖ YouTube Music. Hier konnte ich schon beenden.\n➖ Erweiterte Suche. Finde den Song auch auf ihren Worten.\n➖ Es ist eine erstklassige Musikdatenbank. Ohne Remixe und Mikrofonaufnahmen.  \n➖ Originalqualität der gesendeten Dateien. AAC 128 Kbps.\n➖ Jedes Lied wird mit dem Original-Cover gesendet.\n\n❕ Ich schicke die das Lied sofort, wenn es bereits vorher durch mich heruntergeladen wurde. Andernfalls dauert das Herunterladen in der Regel nicht länger als 10 Sekunden. \n\n🗄 Schon heruntergeladene Songs werden hier gesammelt <a href=\"https://t.me/joinchat/AAAAAEpNIFaaE_CgT1vTYQ\"></a>.\n<b>👨🏻‍💻 Mein Channel:</b> @LyBlog",
+    "cmd_help_group": "<b>Hallo!</b>\nIch helfe dir, Musik zu finden. Schreib /help für die Hilfe.",
+    "cmd_stop_text": "Die Warteschlange wird gelöscht.",
+    "result_text": "<b>Ergebnisse der Anfrage:</b>\n<i>{text}</i>",
+    "result_fix_text": "\n<b>Geändert auf:</b>\n<i>{fix}</i>",
+    "result_error_not_found": "<b>Fehler😢</b>\nNichts gefunden.",
+    "inline_zero": "Fehler😢\n\nEs gibt nichts mehr.",
+    "inline_without_info": "Fehler😢\n\nIch kann nicht, notwendige Information zu bekommen.",
+    "inline_process_alert": "Audio wird in Kürze hier erscheinen.\nWarte auf den Herunterladen.",
+    "inline_process_send": "Verschicke...",
+    "inline_process_error_not_available": "Die Musik ist nicht zum Herunterladen verfügbar.",
+    "inline_process_error_nothing": "Es gibt nichts :(",
+    "load_process_add_queue": "⏳ Füge zur Warteschlange hinzu,",
+    "load_process_queue": "⏳ In der Warteschlange...",
+    "load_error_not_available": "<b>Fehler😢</b>\n{video}\nDie Musik ist nicht zum Herunterladen verfügbar.",
+    "load_error_user_limit": "<b>Fehler😢</b>\n{video}\nDu darfst nicht mehr als {maxQueue} Audiodateien in die Warteschlange hinzufügen.",
+    "audio_private_error": "Bitte, sende mir keine Audiodateien.\nDu kannst Zugriff zu Musik verlieren.\nErstelle eine Gruppe für dich.\n\nDu kannst das so machen:\niOS: telegra.ph/vkm4bot-01-22\nAndroid: telegra.ph/vkm4bot-02-15"
+}
