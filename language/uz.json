@@ -1,0 +1,18 @@
+{
+    "cmd_help_text": "Salom, <b>{login}</b>!\nMen sizga Youtube Music dan musiqani topib uni fayl shaklida senga yuboraman.\n<b>Shunchaki qidirish kerak bo'lgan so'rovni yozing😉</b>\n\n<b>⭐️ Afzal taraflarim:</b>\n➖ YouTube Music. Shu joyda to'xtatish ham mumkin edi.\n➖ Kengaytirilgan qidiruv. Musiqani xatto uning so'zlaridan ham topadi.\n➖ Sifatli musiqalar ombori. Remix va mikrofon yozuvlarisiz.\n➖ Jo'natilayotgan audiolarning original sifati. AAC 128 Kbps.\n➖ Har-bir audio original muqova bilan yuboriladi.\n\n❕ Agar audio avval men orqali yuklangan bo'lsa,uni bir lag'za yuboraman,aks xolda yuklash 10 soniyagacha cho'zilishi mumkin. .\n\n🗄 Yuklangan audiolarni <a href=\"https://t.me/joinchat/AAAAAEpNIFaaE_CgT1vTYQ\">o'z kanalimga</a> joylayman.\n<b>👨🏻‍💻 Yaratuvchining kanali:</b> @LyBlog",
+    "cmd_help_group": "<b>Salom!</b>\nMen sizga musiqa topishda yordam beraman,yordam uchun /help deb yozing",
+    "cmd_stop_text": "Navbat tozalandi.",
+    "result_text": "<b></b>\n<i>{text}</i> so'rovi bo'yicha natijalar",
+    "result_fix_text": "\n\n<i>{fix}</i><b> ga to'g'irlandi</b>",
+    "result_error_not_found": "<b>Hato😢</b>\nHech narsa topib bo'lmadi",
+    "inline_zero": "Hato😢\n\nBoshqa hech nima yo'q.",
+    "inline_without_info": "Hato😢\n\nKerakli ma'lumotni topib bo'lmadi.",
+    "inline_process_alert": "Audio tez orada shu yerda paydo bo'ladi.\nYuklanishini kuting.",
+    "inline_process_send": "Jo'natyabmiz...",
+    "inline_process_error_not_available": "Kompozitsiya yuklash uchun mavjud emas.",
+    "inline_process_error_nothing": "Hech narsa yo'q :(",
+    "load_process_add_queue": "⏳ Navbatga qo'shyabmiz...",
+    "load_process_queue": "⏳ Yuklash uchun navbatda...",
+    "load_error_not_available": "<b>Hato😢</b>\n{video}\nKompozitsiya yuklash uchun mavjud emas.",
+    "load_error_user_limit": "<b>Hato😢</b>\n{video}\nSiz  {maxQueue} gacha audioni navbatga joylash imkoniga egasiz."
+}
