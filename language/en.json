@@ -1,5 +1,5 @@
 {
-    "cmd_help_text": "Hi, <b>{login}</b>!\n I will help you to find music in YouTube Music and will send you it as a file.\n<b>Just write me a request for the search😉</b>\n\n<b>⭐️ My advantages:</b>\n➖ YouTube Music. I would have finished on this one, but no.\n➖ Advanced search. Will find a song even based on its lyrics.\n➖ Quality music database. Without any remixes or microphone recordings.\n➖ Original quality of sent files. AAC 128 Kbps.\n➖ Each audio is being sent with an original album cover.\n\n❕I send audio instantly if it has already been downloaded through me earlier. Otherwise, the download usually takes no more than 10 seconds.\n\n🗄 Downloaded audio I store in <a href=\"https://t.me/joinchat/AAAAAEpNIFaaE_CgT1vTYQ\">my channel</a>.\n<b>👨🏻‍💻Devblog (in Russian):</b> @LyBlog\n\n Translated by @z33ga",
+    "cmd_help_text": "Hi, <b>{login}</b>!\n I will help you to find tracks on YouTube Music and get them as files.\n<b>Just type in the search query😉</b>\n\n<b>⭐️ My advantages:</b>\n➖ YouTube Music. I would have finished on this one, but no.\n➖ Advanced search. Will find a song even based on its lyrics.\n➖ Quality music database. Without any remixes or microphone recordings.\n➖ Original quality of sent files. AAC 128 Kbps.\n➖ Each audio will be sent with an original album cover.\n\n❕I send audio instantly if it has already been downloaded through me earlier. Otherwise, the download usually takes less than 10 seconds.\n\n🗄 Downloaded audio I store in <a href=\"https://t.me/joinchat/AAAAAEpNIFaaE_CgT1vTYQ\">my channel</a>.\n<b>👨🏻‍💻Devblog (in Russian):</b> @LyBlog\n\n Translated by @z33ga",
     "cmd_help_group": "<b>Hi!</b>\nI will help you to find music, for help write /help",
     "cmd_stop_text": "The queue is cleared.",
     "result_text": "<b>Result of a request:</b>\n<i>{text}</i>",
@@ -9,10 +9,10 @@
     "inline_without_info": "Error😢\n\nCould not get the required information.",
     "inline_process_alert": "Audio will appear here soon.\nWait for the download.",
     "inline_process_send": "Sending...",
-    "inline_process_error_not_available": "The composition is not available for download.",
+    "inline_process_error_not_available": "The track is not available for download.",
     "inline_process_error_nothing": "There is nothing :(",
     "load_process_add_queue": "⏳ Adding to the queue...",
     "load_process_queue": "⏳ Queued for download...",
-    "load_error_not_available": "<b>Error😢</b>\n{video}\nThe composition is not available for download.",
+    "load_error_not_available": "<b>Error😢</b>\n{video}\nThe track is not available for download.",
     "load_error_user_limit": "<b>Error😢</b>\n{video}\nYou are allowed to put no more than {maxQueue} audios in the queue."
 }
