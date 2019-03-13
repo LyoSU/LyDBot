@@ -1,0 +1,18 @@
+{
+    "cmd_help_text": "Bonjour, <b>{login}</b>!\nJe vais t'aider à trouver la musique sur YouTube Music et te l'envoyer comme un fichier.\n<b>Juste envoie moi une requête😉</b>\n\n<b>⭐️ Mes avantages:</b>\n➖ YouTube Music. On pourrait s'arrêter ici mais ce n'est pas tout.\n➖ La recherche avancée. Je peux trouver une chanson par les paroles.\n➖ La base de musique en bonne qualité. Pas de remix ou d'enregistrements au microphone .\n➖ La qualité originale des fichiers. AAC 128 Kbps.\n➖ Chaque chanson va avec l'illustration originale.\n\n❕ J'envoie le fichier tout de suite s'il était déjà téléchargé par moi. Sinon le téléchargement prend habituellement moins de 10 secondes.\n\n🗄 Je pose les fichiers téléchargés sur <a href=\"https://t.me/joinchat/AAAAAEpNIFaaE_CgT1vTYQ\">ma chaîne</a>.\n<b>👨🏻‍💻 La chaîne de développeur:</b> @LyBlog",
+    "cmd_help_group": "<b>Bonjour!</b>\nJe vais t'aider à trouver la musique, pour l'aide écris /help",
+    "cmd_stop_text": "La queue est effacée.",
+    "result_text": "<b>Le resultat de la requête:</b>\n<i>{text}</i>",
+    "result_fix_text": "\n<b>Résultats pour:</b>\n<i>{fix}</i>",
+    "result_error_not_found": "<b>Erreur😢</b>\nJ'ai rien trouvé",
+    "inline_zero": "Erreur😢\n\nIl n'y a plus rien.",
+    "inline_without_info": "Erreur😢\n\nErreur lors de la réception d'informations nécessaire.",
+    "inline_process_alert": "L'audio va bientôt apparaître ici.\nAttendez le téléchargement.",
+    "inline_process_send": "L'envoi...",
+    "inline_process_error_not_available": "La composition est indisponible pour le téléchargement.",
+    "inline_process_error_nothing": "Il n'y a rien :(",
+    "load_process_add_queue": "⏳ Ajout à la queue...",
+    "load_process_queue": "⏳ À la queue pour le téléchargement...",
+    "load_error_not_available": "<b>Erreur😢</b>\n{video}\nLa composition est indisponible pour le téléchargement.",
+    "load_error_user_limit": "<b>Erreur😢</b>\n{video}\nIl ne t'est pas permis de mettre à la queue plus de {maxQueue} audios."
+}
