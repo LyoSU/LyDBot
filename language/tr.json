@@ -14,5 +14,5 @@
     "load_process_add_queue": "⏳ Sorgu eklendi...",
     "load_process_queue": "⏳ Soru indiriliyor...",
     "load_error_not_available": "<b>Hata😢</b>\n{video}\nİndirilecek birşey yok.",
-    "load_error_user_limit": "<b>Error😢</b>\n{video}\n{maxQueue} dan fazla muzik sıraya alınmasına izin verilmiyor."
+    "load_error_user_limit": "<b>Error😢</b>\n{video}\n{maxQueue} dan fazla müziğin sıraya alınmasına izin verilmiyor."
 }
