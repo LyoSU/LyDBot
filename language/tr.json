@@ -1,0 +1,18 @@
+{
+    "cmd_help_text": "Merhaba, <b>{login}</b>!\n YouTube dan müziği indirip ses dosyasını sana gondermeye yardım ederim.\n<b>Sadece aramak istedigin sanatçıyı şarkı adını gir.😉</b>\n\n<b>⭐️ Avantajlarım:</b>\n➖ YouTube Muzik.Bunu bitirdim sayılır ama henüz bitmedi.\n➖ Özellikli arama. Müzik arayabilirsiniz hatta müziğin sözlerini de .\n➖ Kaliteli nuzik veritabanı. Remiks ve ses kaydi olmayan müzikler içerir..\n➖ Orjinal Kalitede müzik. AAC 128 Kbps.\n➖ Her müziğin orjinal kapak resmi ile beraber gönderilir.\n\n❕Eger muzik başkası tarafından daha önce indirildi ise sana bu müziği aninda göndereceğim. Diğer yandan daha önce hiç kimse indirmemiş olsa da 10 saniyeden fazla sürmez..\n\n🗄 İndirile müziklerin tutulduğu arşiv için  in <a href=\"https://t.me/joinchat/AAAAAEpNIFaaE_CgT1vTYQ\">linke tıklayınız</a>.\n<b>👨🏻‍💻 Geliştirici bloğu (kanal Rusça):</b> @LyBlog\n\n Translated by @By_Azade",
+    "cmd_help_group": "<b>Merhaba!</b>\nMüzik bulmanda yardımcı olacağım, yardım bilgilerine ulaşmak için /help komutunu kullanın",
+    "cmd_stop_text": "Sorgu temizlendi.",
+    "result_text": "<b>Sorgu sonucu:</b>\n<i>{text}</i>",
+    "result_fix_text": "\n<b>Sabitlenmiş:</b>\n<i>{fix}</i>",
+    "result_error_not_found": "<b>Hata😢</b>\nHiçbirşey bulamadım.",
+    "inline_zero": "Hata😢\n\nDaha fazla birşey yok.",
+    "inline_without_info": "Hata😢\n\nGerekli bilgileri alamadım.",
+    "inline_process_alert": "Müzik birazdan gönderilecek.\nLütfen indirilmesini bekleyin.",
+    "inline_process_send": "Gönderiliyor...",
+    "inline_process_error_not_available": "İndirilemiyor.",
+    "inline_process_error_nothing": "Hiçbirsey yok :(",
+    "load_process_add_queue": "⏳ Sorgu eklendi...",
+    "load_process_queue": "⏳ Soru indiriliyor...",
+    "load_error_not_available": "<b>Hata😢</b>\n{video}\nİndirilecek birşey yok.",
+    "load_error_user_limit": "<b>Error😢</b>\n{video}\n{maxQueue} dan fazla müziğin sıraya alınmasına izin verilmiyor."
+}
