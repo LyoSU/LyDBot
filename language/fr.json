@@ -14,5 +14,6 @@
     "load_process_add_queue": "⏳ Ajout à la queue...",
     "load_process_queue": "⏳ À la queue pour le téléchargement...",
     "load_error_not_available": "<b>Erreur😢</b>\n{video}\nLa composition est indisponible pour le téléchargement.",
-    "load_error_user_limit": "<b>Erreur😢</b>\n{video}\nIl ne t'est pas permis de mettre à la queue plus de {maxQueue} audios."
+    "load_error_user_limit": "<b>Erreur😢</b>\n{video}\nIl ne t'est pas permis de mettre à la queue plus de {maxQueue} audios.",
+    "audio_private_error": "N'envoyez pas d'audio au bot s'il vous plaît.\nVous pourriez perdre l'accès à eux.\nIl est mieux de créer un group pour le bot.\n\nPour le faire:\niOS: telegra.ph/vkm4bot-01-22\nAndroid: telegra.ph/vkm4bot-02-15"
 }
