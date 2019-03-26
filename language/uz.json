@@ -1,5 +1,5 @@
 {
-    "cmd_help_text": "Salom, <b>{login}</b>!\nMen sizga Youtube Music dan musiqani topib uni fayl shaklida sizga yuboraman.\n<b>Shunchaki qidirish kerak bo'lgan so'rovni yozing😉</b>\n\n<b>⭐️ Afzal taraflarim:</b>\n➖ YouTube Music. Shu joyda to'xtatish ham mumkin edi.\n➖ Kengaytirilgan qidiruv. Nafaqat musiqani xatto uning so'zlaridan ham topadi.\n➖ Sifatli musiqalar ombori. Remix va mikrofon yozuvlarisiz.\n➖ Jo'natilayotgan audiolarning original sifati. AAC 128 Kbps.\n➖ Har-bir audio original muqova bilan yuboriladi.\n\n❕ Agar audio avval men orqali yuklangan bo'lsa,uni bir zumda yuboraman,aks xolda yuklash 10 soniyagacha cho'zilishi mumkin. .\n\n🗄 Yuklangan audiolarni <a href=\"https://t.me/joinchat/AAAAAEpNIFaaE_CgT1vTYQ\">o'z kanalimga</a> joylayman.\n<b>👨🏻‍💻 Yaratuvchining kanali:</b> @LyBlog",
+    "cmd_help_text": "Salom, <b>{login}</b>!\nMen sizga Youtube Music dan musiqani topib uni fayl shaklida yuboraman.\n<b>Shunchaki qidirish kerak bo'lgan so'rovni yozing😉</b>\n\n<b>⭐️ Afzal taraflarim:</b>\n➖ YouTube Music. Shu joyda to'xtatish ham mumkin edi.\n➖ Kengaytirilgan qidiruv. Musiqani xatto uning so'zlaridan ham topaman.\n➖ Sifatli musiqalar ombori. Remix va mikrofon yozuvlarisiz.\n➖ Jo'natilayotgan audiolarning original sifati. AAC 128 Kbps.\n➖ Har-bir audio original muqova bilan yuboriladi.\n\n❕ Agar audio avval men orqali yuklangan bo'lsa,uni bir zumda yuboraman,aks xolda yuklash 10 soniyagacha cho'zilishi mumkin. .\n\n🗄 Yuklangan audiolarni <a href=\"https://t.me/joinchat/AAAAAEpNIFaaE_CgT1vTYQ\">o'z kanalimga</a> joylayman.\n<b>👨🏻‍💻 Yaratuvchining kanali:</b> @LyBlog",
     "cmd_help_group": "<b>Salom!</b>\nMen sizga musiqa topishda yordam beraman,yordam uchun /help deb yozing",
     "cmd_stop_text": "Navbat tozalandi.",
     "result_text": "<b></b>\n<i>{text}</i> so'rovi bo'yicha natijalar",
@@ -8,7 +8,7 @@
     "inline_zero": "Hato😢\n\nBoshqa hech nima yo'q.",
     "inline_without_info": "Xato😢\n\nKerakli ma'lumotni topib bo'lmadi.",
     "inline_process_alert": "Audio tez orada shu yerda paydo bo'ladi.\nYuklanishini kuting.",
-    "inline_process_send": "Jo'natyabman...",
+    "inline_process_send": "Jo'natyabman..",
     "inline_process_error_not_available": "Kompozitsiya yuklash uchun mavjud emas.",
     "inline_process_error_nothing": "Hech narsa yo'q :(",
     "load_process_add_queue": "⏳ Navbatga qo'shyabman...",
