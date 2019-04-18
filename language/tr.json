@@ -12,7 +12,7 @@
     "inline_process_error_not_available": "İndirilemiyor.",
     "inline_process_error_nothing": "Hiçbirsey yok :(",
     "load_process_add_queue": "⏳ Sorgu eklendi...",
-    "load_process_queue": "⏳ Soru indiriliyor...",
+    "load_process_queue": "⏳ Parça indiriliyor...",
     "load_error_not_available": "<b>Hata😢</b>\n{video}\nİndirilecek birşey yok.",
     "load_error_user_limit": "<b>Error😢</b>\n{video}\n{maxQueue} dan fazla müziğin sıraya alınmasına izin verilmiyor."
 }
