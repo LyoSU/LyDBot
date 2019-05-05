@@ -13,6 +13,6 @@
     "inline_process_error_nothing": "Hiçbir şey yok :(",
     "load_process_add_queue": "⏳ Kuyruğa eklendi...",
     "load_process_queue": "⏳ Müzik indiriliyor...",
-    "load_error_not_available": "<b>Hata 😢</b>\n{video}\nİndirilecek bir şey yok.",
+    "load_error_not_available": "<b>Hata 😢</b>\n{video}\nKomposizyon indirmek için uygun değil.",
     "load_error_user_limit": "Hata 😢</b>\n{video}\n{maxQueue} dan fazla müziğin kuyruğa alınmasına izin verilmiyor."
 }
