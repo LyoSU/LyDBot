@@ -1,18 +1,18 @@
 {
     "cmd_help_text": "Merhaba, <b>{login}</b>!\n YouTube Music'teki müziği bulmana yardım edecek ve dosya olarak sana göndereceğim.\n<b>Sadece aramak istediğin sanatçıyı veya şarkı adını gir.😉</b>\n\n<b>⭐️ Avantajlarım:</b>\n➖ YouTube Music. Bunu bitirdim sayılır ama henüz bitmedi.\n➖ Gelişmiş arama. Bir şarkıyı sözlerinden bile bulacağım.\n➖ Kaliteli müzik veritabanı. Herhangi bir remiks veya mikrofon kaydı olmadan.\n➖ Dosyalar orijinal kalitede gönderilir. AAC 128 Kbps.\n➖ Her müzik, orijinal albüm kapağı ile gönderilir.\n\n❕Eğer müziği daha önce başkası indirmişse, anında göndereceğim. Zaten daha önce hiç kimse indirmemiş olsa bile 10 saniyeden fazla sürmez.\n\n🗄 İndirilen müzikleri <a href=\"https://t.me/joinchat/AAAAAEpNIFaaE_CgT1vTYQ\">kanalımda</a> depoluyorum.\n<b>👨🏻‍💻 Geliştirici Günlüğü (Rusça):</b> @LyBlog\n\n Translated by @cnpltdncsln",
-    "cmd_help_group": "<b>Merhaba!</b>\nMüzikleri bulmanıza yardımcı olacağım, yardım bilgilerine ulaşmak için /help komutunu kullanın",
+    "cmd_help_group": "<b>Merhaba!</b>\nMüzik bulmanıza yardımcı edeceğim, yardım için /help yazın",
     "cmd_stop_text": "Kuyruk temizlendi.",
     "result_text": "<b>Arama sonucu:</b>\n<i>{text}</i>",
     "result_fix_text": "\n<b>Sabitlenmiş:</b>\n<i>{fix}</i>",
-    "result_error_not_found": "<b>Hata 😢</b>\nHiçbir şey bulamadım.",
-    "inline_zero": "Hata 😢\n\nDaha fazla bir şey yok.",
-    "inline_without_info": "Hata 😢\n\nGerekli bilgileri alamadım.",
-    "inline_process_alert": "Müzik birazdan gönderilecek.\nLütfen indirilmesini bekleyin.",
+    "result_error_not_found": "<b>Hata😢</b>\nHiçbir şey bulamadım.",
+    "inline_zero": "Hata😢\n\nDaha fazla bir şey yok.",
+    "inline_without_info": "Hata😢\n\nGerekli bilgileri alamadım.",
+    "inline_process_alert": "Müzik birazdan burda görünecek.\nİndirilmesini bekleyin.",
     "inline_process_send": "Gönderiliyor...",
-    "inline_process_error_not_available": "İndirilemiyor.",
+    "inline_process_error_not_available": "Kompozisyon indirmek için uygun değil.",
     "inline_process_error_nothing": "Hiçbir şey yok :(",
-    "load_process_add_queue": "⏳ Kuyruğa eklendi...",
-    "load_process_queue": "⏳ Müzik indiriliyor...",
-    "load_error_not_available": "<b>Hata 😢</b>\n{video}\nKomposizyon indirmek için uygun değil.",
-    "load_error_user_limit": "Hata 😢</b>\n{video}\n{maxQueue} dan fazla müziğin kuyruğa alınmasına izin verilmiyor."
+    "load_process_add_queue": "⏳ Kuyruğa ekleniyor...",
+    "load_process_queue": "⏳ İndirme için kuyruğa eklendi...",
+    "load_error_not_available": "<b>Hata😢</b>\n{video}\nKomposizyon indirmek için uygun değil.",
+    "load_error_user_limit": "Hata😢</b>\n{video}\n{maxQueue} dan fazla müziğin kuyruğa alınmasına izin verilmiyor."
 }
