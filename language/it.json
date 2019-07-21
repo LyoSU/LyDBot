@@ -13,7 +13,7 @@
     "inline_process_error_nothing": "Non c'è niente :(",
     "load_process_add_queue": "⏳ Aggiungiamo alla coda...",
     "load_process_queue": "⏳ In coda per il download...",
-    "load_error_not_available": "<b>Errore😢</b>\n{video}\La composizione non è disponibile per il download.",
+    "load_error_not_available": "<b>Errore😢</b>\n{video}\nLa composizione non è disponibile per il download.",
     "load_error_user_limit": "<b>Errore😢</b>\n{video}\nPuoi aggiungere alla coda non più di {maxQueue} file.,",
     "audio_private_error": "Si prega di non inviare file audio al bot.\nPotresti perdere l'accesso.\nCrea un gruppo per il bot.\n\nCome si fa:\niOS: telegra.ph/vkm4bot-01-22\nAndroid: telegra.ph/vkm4bot-02-15"
 }
