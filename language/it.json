@@ -7,7 +7,7 @@
     "result_error_not_found": "<b>Errore😢</b>\nNon ho trovato niente",
     "inline_zero": "Errore😢\n\nNon c'è niente di più.",
     "inline_without_info": "Errore😢\n\nNon è possibile ottenere le informazioni necessarie.",
-    "inline_process_alert": "L'audio arriverà presto qui.\aspetta il caricamento ",
+    "inline_process_alert": "L'audio arriverà presto qui.\nAspetta il caricamento ",
     "inline_process_send": "Stiamo inviando...",
     "inline_process_error_not_available": "Questa composizione non è disponibile per il download.",
     "inline_process_error_nothing": "Non c'è niente :(",
