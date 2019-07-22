@@ -1,0 +1,19 @@
+{
+    "cmd_help_text": "Ciao, <b>{login}</b>!\nTi aiuto a trovare la musica su YouTube Music e ti invio i file.\n<b>Basta che tu mi scriva cosa vuoi cercare😉</b>\n\n<b>⭐️ I miei vantaggi:</b>\n➖ YouTube Music. Potevamo finire qui.\n➖ Ricerca Avanzata. Trova le canzoni anche solo dalle parole.\n➖ Database musicale di qualità. Nessun remix e registrazione dal microfono.\n➖ qualità originale dei file inviati. AAC 128 Kbps.\n➖ Ogni audio viene inviato con la copertina originale.\n\n❕ Invio l'audio istantaneamente se è già stato scaricato attraverso di me in precedenza. In caso contrario, di solito il download richiede non più di 10 secondi.\n\n🗄 File musicali già scaricati metto sul <a href=\"https://t.me/joinchat/AAAAAEpNIFaaE_CgT1vTYQ\">mio canale</a>.\n<b>👨🏻‍💻 Canale di sviluppatore:</b> @LyBlog",
+    "cmd_help_group": "<b>Ciao!</b>\nTi aiuto a trovare la musica, per l'aiuto scrivimi /help",
+    "cmd_stop_text": "La coda è cancellata.",
+    "result_text": "<b>I risultati di ricerca:</b>\n<i>{text}</i>",
+    "result_fix_text": "\n<b>Risolto su:</b>\n<i>{fix}</i>",
+    "result_error_not_found": "<b>Errore😢</b>\nNon ho trovato niente",
+    "inline_zero": "Errore😢\n\nNon c'è niente di più.",
+    "inline_without_info": "Errore😢\n\nNon è possibile ottenere le informazioni necessarie.",
+    "inline_process_alert": "L'audio arriverà presto qui.\nAspetta il caricamento ",
+    "inline_process_send": "Stiamo inviando...",
+    "inline_process_error_not_available": "Questa composizione non è disponibile per il download.",
+    "inline_process_error_nothing": "Non c'è niente :(",
+    "load_process_add_queue": "⏳ Aggiungiamo alla coda...",
+    "load_process_queue": "⏳ In coda per il download...",
+    "load_error_not_available": "<b>Errore😢</b>\n{video}\nLa composizione non è disponibile per il download.",
+    "load_error_user_limit": "<b>Errore😢</b>\n{video}\nPuoi aggiungere alla coda non più di {maxQueue} file.,",
+    "audio_private_error": "Si prega di non inviare file audio al bot.\nPotresti perdere l'accesso.\nCrea un gruppo per il bot.\n\nCome si fa:\niOS: telegra.ph/vkm4bot-01-22\nAndroid: telegra.ph/vkm4bot-02-15"
+}
