@@ -14,6 +14,6 @@
     "load_process_add_queue": "⏳ Kuyruğa ekleniyor...",
     "load_process_queue": "⏳ İndirme için kuyruğa eklendi...",
     "load_error_not_available": "<b>Hata 😢</b>\n{video}\nKomposizyon indirmek için uygun değil.",
-    "load_error_user_limit": "Hata 😢</b>\n{video}\n{maxQueue} dan fazla müziğin kuyruğa alınmasına izin verilmiyor."
+    "load_error_user_limit": "Hata 😢</b>\n{video}\n{maxQueue} dan fazla müziğin kuyruğa alınmasına izin verilmiyor.",
     "audio_private_error": "Lütfen bota ses göndermeyin.\nMüziğe erişiminizi kaybedebilirsiniz.\nBot için bir grup oluşturun.\n\nNasıl yapılır:\niOS: telegra.ph/vkm4bot-01-22\nAndroid: telegra.ph/vkm4bot-02-15"
 }
