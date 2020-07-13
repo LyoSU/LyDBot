@@ -1,0 +1,19 @@
+{
+    "cmd_help_text": "Silav, <b>{login}</b>!\nEz ê ji bo stranên ku yên Youtube Musicê de diweşin bibînî alîkariya te bikim û ez ê wekî belgedankê ji te re bişînim.\n<b>Ji bo lêgerînê tenê navê stranê an jî stranbêjê binivîse... 😉</b>\n\n<b>⭐️ Pêşwendiyên min:</b>\n➖ YouTube Music. Hema bibêje min xilas kir lê hê xilas nebûye...\n➖ Lêgerîna pêşketî. Ez dikarim stranê bi gotinên wê jî bibînim...\n➖ Danegeha muzîka hêja...Bê qeyda remiks û mîkrofonê.\n➖ Belgedang bi kalîteya xwe ya orijînal tê şandin. AAC 128 Kbps.\n➖ Hemû stran, bi wêneya albûma xwe ya resen tê şandin.\n\n❕Heke berê kesek stranê daxistibe ez ê heman demê de bişînim. Lê heke kesek danexistibe şandina min di 10 sanîyeyê derbas nake.\n\n🗄 Stranên ku hatine daxistin <a href=\"https://t.me/joinchat/AAAAAEpNIFaaE_CgT1vTYQ\">Li ser malpera xwe</a> kom dikim.\n<b>👨🏻‍💻 Rojaneya Developer (Bi Rûsî):</b> @LyBlog",
+    "cmd_help_group": "<b>Silav!</b>\nEz ê ji bo dîtina muzîkê alîkariya we bikim, ji bo alîkariyê /help binivîsin.",
+    "cmd_stop_text": "Rêz hat paqij kirin.",
+    "result_text": "<b>Encama lêgerînê:</b>\n<i>{text}</i>",
+    "result_fix_text": "\n<b>Hatiye sabît kirin:</b>\n<i>{fix}</i>",
+    "result_error_not_found": "<b>Xeletî 😢</b>\nMin tu tişt nedît.",
+    "inline_zero": "Xeletî 😢\n\nJi zêdetir tu tişt nehat dîtin..",
+    "inline_without_info": "Xeletî 😢\n\nMin agahiyên pêwîst ranehişt..",
+    "inline_process_alert": "Stran gavekê din li vir bê xuyandin.\nLi benda daxistinê bin.",
+    "inline_process_send": "Tê şandin...",
+    "inline_process_error_not_available": "Darêjnivîs ne li gorî daxistinê ye.",
+    "inline_process_error_nothing": "Tu tişt tuneye :(",
+    "load_process_add_queue": "⏳Tevlî rêzê dibe...",
+    "load_process_queue": "⏳ Ji bo daxistinê tevlî rêzê bû...",
+    "load_error_not_available": "<b>Xeletî 😢</b>\n{video}\nDarêjnivîs ne li gorî daxistinê ye.",
+    "load_error_user_limit": "Xeletî 😢</b>\n{video}\n{maxQueue} ê zêdetir stran nikare tevlî rêzê bibe.",
+    "audio_private_error": "Ji kerema xwe re ji botê re deng neşînin.\nHûn ê ji muzîkê re gihaniya xwe qeyb bikin. .\nJi bo botê komek ava bikin.\n\nÇawa çêdibe:\niOS: telegra.ph/vkm4bot-01-22\nAndroid: telegra.ph/vkm4bot-02-15"
+}
