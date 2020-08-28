@@ -1,0 +1,19 @@
+{
+    "cmd_help_text": "Salam, <b>{login}</b>!\nYouTube Music-dən musiqi tapıb sənə göndərə bilərəm.\n<b>Axtardığın mahnının adını mənə yaz 😉</b>\n\n<b>⭐️ Mənim üstünliklərim:</b>\n➖ YouTube Music. Bununla da başa çatdırmaq olardı.\n➖ Ətraflı axtarış. Mahnını hətta onun sözlərinə görə tapa bilərsiniz.\n➖ Keyfiyyətli mahnıların bazası. Mikrofondan səs və ya remixlər olmadan.\n➖ Göndərilən faylların orijinal keyfiyyəti. AAC 128 Kbps.\n➖ Hər bir audio orijinal örtüyü ilə göndərilir.\n\n❕ Я отправляю аудио моментально, если оно уже было загружено через меня ранее. В ином случае, обычно загрузка занимает не более 10 секунд.\n\n🗄 Yüklənmiş səsləri <a href=\"https://t.me/joinchat/AAAAAEpNIFaaE_CgT1vTYQ\">kanalıma</a> əlavə edirəm.\n<b>👨🏻‍💻 Bot yaradıcısının bloqu:</b> @LyBlog\n<b>👨🏻‍💻 Tərcüməçinin GitHub-ı:</b> <a href='https://github.com/Sadykhzadeh'>@Sadykhzadeh</a>",
+    "cmd_help_group": "<b>Salam!</b>\nMən sizə musiqi tapmaqda kömək göstərəcəm, sadəcə /help yazın",
+    "cmd_stop_text": "Növbə təmizlənib.",
+    "result_text": "<b>Nəticələr:</b>\n<i>{text}</i>",
+    "result_fix_text": "\n<b>Dəyişib:</b>\n<i>{fix}</i>",
+    "result_error_not_found": "<b>Xəta 😢</b>\nHeçnə tapa bilmədim",
+    "inline_zero": "Xəta 😢\n\nNəticələr qutardı.",
+    "inline_without_info": "Xəta 😢\n\nLazım olan məlumatı əldə etmək mümkün olmadı.",
+    "inline_process_alert": "Audio tez sonra burada gösəriləcək.\nEndirmənin sonunu gözləyin.",
+    "inline_process_send": "Göndərirəm...",
+    "inline_process_error_not_available": "Kompozisiyanı endirmək mümkün deyil.",
+    "inline_process_error_nothing": "Heç bir şey yoxdur :(",
+    "load_process_add_queue": "⏳ Sıraya əlavə edirəm...",
+    "load_process_queue": "⏳ Endirmək ücün sıradadır...",
+    "load_error_not_available": "<b>Xəta 😢</b>\n{video}\nKompozisiyanı endirmək mümkün deyil.",
+    "load_error_user_limit": "<b>Xəta 😢</b>\n{video}\nSizə {maxQueue}-dan çox audio qoymaq  icazə verilmir.",
+    "audio_private_error": "Xahiş edirəm, mənə audio göndərməyin.\nSiz mahnıları itirə bilərsiniz.\nBot üçün söhbət yaradın.\n\nBunu belə etmək olar:\niOS: telegra.ph/vkm4bot-01-22\nAndroid: telegra.ph/vkm4bot-02-15"
+}
