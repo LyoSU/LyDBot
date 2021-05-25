@@ -1,7 +1,9 @@
 {
-    "cmd_help_text": "Hi, <b>{login}</b>!\nI fetch tracks from YouTube Music!\n\nEnter the artist or track name and I'll show you what I've found. Searching for lyrics also works!\nOnly HQ originals here, no low quality remixes or mic recordings!\nAll files are M4A AAC 128 Kbps, with album covers included!\n\nMost tracks will appear instantly. Those are the tracks other users already searched for, and I keep them in <a href=\"https://t.me/joinchat/AAAAAEpNIFaaE_CgT1vTYQ\">my channel</a>.\nOthers will take a few seconds to load.\n\nVisit <a href=\"https://t.me/LyBlog\">my developer's blog</a> for more!",
+    "cmd_help_text": "Hi, <b>{login}</b>!\nI fetch tracks from YouTube Music!\n\nEnter the artist or track name and I'll show you what I've found. Searching for lyrics also works!\nOnly HQ originals here, no low quality remixes or mic recordings!\nAll files are M4A AAC 128 Kbps, with album covers included!\n\nMost tracks will appear instantly. Those are the tracks other users already searched for, and I keep them in <a href=\"https://t.me/joinchat/AAAAAEpNIFaaE_CgT1vTYQ\">my channel</a>.\nOthers will take a few seconds to load.\n\n☕️ By me coffee: donate.lyo.su\nVisit <a href=\"https://t.me/LyBlog\">my developer's blog</a> for more!",
     "cmd_help_group": "<b>Hi! 🤚</b>\nI fetch tracks from YouTube Music!\nTry /help for more information.",
     "cmd_stop_text": "The queue is emptied.",
+    "cmd_silent_enable_text": "Включен тихий режим.",
+    "cmd_silent_disable_text": "Выключен тихий режим.",
     "result_text": "<b>Here are some results:</b>\n<i>{text}</i>",
     "result_fix_text": "\n<b>Fixed to:</b>\n<i>{fix}</i>",
     "result_error_not_found": "<b>Sorry 😢</b>\n\nI couldn't find anything.",
@@ -15,5 +17,7 @@
     "load_process_queue": "⏳ Queued for download.",
     "load_error_not_available": "<b>Sorry 😢</b>\n{video}\nThis track isn't available for download.",
     "load_error_user_limit": "<b>Sorry 😢</b>\n{video}\nYou aren't allowed to queue more than {maxQueue} tracks.",
-    "audio_private_error": "Please don't store tracks in this chat, they're lost easily this way."
+    "audio_private_error": "Please don't store tracks in this chat, they're lost easily this way.",
+    "cmd_link_enable": "Отображение ссылок включено",
+    "cmd_link_disable": "Отображение ссылок выключено"
 }
